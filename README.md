@@ -1,1 +1,3 @@
 # automation-projects
+
+I'll be uploading all these projects soon...
