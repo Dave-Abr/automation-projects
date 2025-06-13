@@ -9,6 +9,6 @@ Welcome to the section of my portfolio dedicated to projects involving **automat
 
 - **Description**: The goal is to automate the processing of Google Form submissions by generating a personalized PDF for each response and sending it via Gmail automatically. 
 - **Technologies**: `Google Apps Script`, `HTML Template`,  `GmailApp`, `Triggers`
-- **Resource**: [`form-automation.gs`](form_to_pdf.gs.txt)
+- **Resource**: [`form-automation.gs`](form-automation.gs)
 
 ---
